@@ -1,0 +1,13 @@
+C:\Projects\CORE_PROJ\IdentityServer4.Samples-master-Native\IdentityServer4.Samples-master\Quickstarts\8_AspNetIdentity\src\Api\bin\Debug\netcoreapp2.1\Api.deps.json
+C:\Projects\CORE_PROJ\IdentityServer4.Samples-master-Native\IdentityServer4.Samples-master\Quickstarts\8_AspNetIdentity\src\Api\bin\Debug\netcoreapp2.1\Api.runtimeconfig.json
+C:\Projects\CORE_PROJ\IdentityServer4.Samples-master-Native\IdentityServer4.Samples-master\Quickstarts\8_AspNetIdentity\src\Api\bin\Debug\netcoreapp2.1\Api.runtimeconfig.dev.json
+C:\Projects\CORE_PROJ\IdentityServer4.Samples-master-Native\IdentityServer4.Samples-master\Quickstarts\8_AspNetIdentity\src\Api\bin\Debug\netcoreapp2.1\Api.dll
+C:\Projects\CORE_PROJ\IdentityServer4.Samples-master-Native\IdentityServer4.Samples-master\Quickstarts\8_AspNetIdentity\src\Api\bin\Debug\netcoreapp2.1\Api.pdb
+C:\Projects\CORE_PROJ\IdentityServer4.Samples-master-Native\IdentityServer4.Samples-master\Quickstarts\8_AspNetIdentity\src\Api\obj\Debug\netcoreapp2.1\Api.csproj.CoreCompileInputs.cache
+C:\Projects\CORE_PROJ\IdentityServer4.Samples-master-Native\IdentityServer4.Samples-master\Quickstarts\8_AspNetIdentity\src\Api\obj\Debug\netcoreapp2.1\Api.RazorAssemblyInfo.cache
+C:\Projects\CORE_PROJ\IdentityServer4.Samples-master-Native\IdentityServer4.Samples-master\Quickstarts\8_AspNetIdentity\src\Api\obj\Debug\netcoreapp2.1\Api.RazorAssemblyInfo.cs
+C:\Projects\CORE_PROJ\IdentityServer4.Samples-master-Native\IdentityServer4.Samples-master\Quickstarts\8_AspNetIdentity\src\Api\obj\Debug\netcoreapp2.1\Api.AssemblyInfoInputs.cache
+C:\Projects\CORE_PROJ\IdentityServer4.Samples-master-Native\IdentityServer4.Samples-master\Quickstarts\8_AspNetIdentity\src\Api\obj\Debug\netcoreapp2.1\Api.AssemblyInfo.cs
+C:\Projects\CORE_PROJ\IdentityServer4.Samples-master-Native\IdentityServer4.Samples-master\Quickstarts\8_AspNetIdentity\src\Api\obj\Debug\netcoreapp2.1\Api.RazorTargetAssemblyInfo.cache
+C:\Projects\CORE_PROJ\IdentityServer4.Samples-master-Native\IdentityServer4.Samples-master\Quickstarts\8_AspNetIdentity\src\Api\obj\Debug\netcoreapp2.1\Api.dll
+C:\Projects\CORE_PROJ\IdentityServer4.Samples-master-Native\IdentityServer4.Samples-master\Quickstarts\8_AspNetIdentity\src\Api\obj\Debug\netcoreapp2.1\Api.pdb

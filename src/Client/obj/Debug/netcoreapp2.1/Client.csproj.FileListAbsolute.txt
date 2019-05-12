@@ -1,0 +1,11 @@
+C:\Projects\CORE_PROJ\IdentityServer4.Samples-master-Native\IdentityServer4.Samples-master\Quickstarts\8_AspNetIdentity\src\Client\bin\Debug\netcoreapp2.1\Client.deps.json
+C:\Projects\CORE_PROJ\IdentityServer4.Samples-master-Native\IdentityServer4.Samples-master\Quickstarts\8_AspNetIdentity\src\Client\bin\Debug\netcoreapp2.1\Client.runtimeconfig.json
+C:\Projects\CORE_PROJ\IdentityServer4.Samples-master-Native\IdentityServer4.Samples-master\Quickstarts\8_AspNetIdentity\src\Client\bin\Debug\netcoreapp2.1\Client.runtimeconfig.dev.json
+C:\Projects\CORE_PROJ\IdentityServer4.Samples-master-Native\IdentityServer4.Samples-master\Quickstarts\8_AspNetIdentity\src\Client\bin\Debug\netcoreapp2.1\Client.dll
+C:\Projects\CORE_PROJ\IdentityServer4.Samples-master-Native\IdentityServer4.Samples-master\Quickstarts\8_AspNetIdentity\src\Client\bin\Debug\netcoreapp2.1\Client.pdb
+C:\Projects\CORE_PROJ\IdentityServer4.Samples-master-Native\IdentityServer4.Samples-master\Quickstarts\8_AspNetIdentity\src\Client\obj\Debug\netcoreapp2.1\Client.csprojAssemblyReference.cache
+C:\Projects\CORE_PROJ\IdentityServer4.Samples-master-Native\IdentityServer4.Samples-master\Quickstarts\8_AspNetIdentity\src\Client\obj\Debug\netcoreapp2.1\Client.csproj.CoreCompileInputs.cache
+C:\Projects\CORE_PROJ\IdentityServer4.Samples-master-Native\IdentityServer4.Samples-master\Quickstarts\8_AspNetIdentity\src\Client\obj\Debug\netcoreapp2.1\Client.AssemblyInfoInputs.cache
+C:\Projects\CORE_PROJ\IdentityServer4.Samples-master-Native\IdentityServer4.Samples-master\Quickstarts\8_AspNetIdentity\src\Client\obj\Debug\netcoreapp2.1\Client.AssemblyInfo.cs
+C:\Projects\CORE_PROJ\IdentityServer4.Samples-master-Native\IdentityServer4.Samples-master\Quickstarts\8_AspNetIdentity\src\Client\obj\Debug\netcoreapp2.1\Client.dll
+C:\Projects\CORE_PROJ\IdentityServer4.Samples-master-Native\IdentityServer4.Samples-master\Quickstarts\8_AspNetIdentity\src\Client\obj\Debug\netcoreapp2.1\Client.pdb

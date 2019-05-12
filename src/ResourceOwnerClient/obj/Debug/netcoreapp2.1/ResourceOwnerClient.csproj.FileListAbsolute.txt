@@ -1,0 +1,11 @@
+C:\Projects\CORE_PROJ\IdentityServer4.Samples-master-Native\IdentityServer4.Samples-master\Quickstarts\8_AspNetIdentity\src\ResourceOwnerClient\bin\Debug\netcoreapp2.1\ResourceOwnerClient.deps.json
+C:\Projects\CORE_PROJ\IdentityServer4.Samples-master-Native\IdentityServer4.Samples-master\Quickstarts\8_AspNetIdentity\src\ResourceOwnerClient\bin\Debug\netcoreapp2.1\ResourceOwnerClient.runtimeconfig.json
+C:\Projects\CORE_PROJ\IdentityServer4.Samples-master-Native\IdentityServer4.Samples-master\Quickstarts\8_AspNetIdentity\src\ResourceOwnerClient\bin\Debug\netcoreapp2.1\ResourceOwnerClient.runtimeconfig.dev.json
+C:\Projects\CORE_PROJ\IdentityServer4.Samples-master-Native\IdentityServer4.Samples-master\Quickstarts\8_AspNetIdentity\src\ResourceOwnerClient\bin\Debug\netcoreapp2.1\ResourceOwnerClient.dll
+C:\Projects\CORE_PROJ\IdentityServer4.Samples-master-Native\IdentityServer4.Samples-master\Quickstarts\8_AspNetIdentity\src\ResourceOwnerClient\bin\Debug\netcoreapp2.1\ResourceOwnerClient.pdb
+C:\Projects\CORE_PROJ\IdentityServer4.Samples-master-Native\IdentityServer4.Samples-master\Quickstarts\8_AspNetIdentity\src\ResourceOwnerClient\obj\Debug\netcoreapp2.1\ResourceOwnerClient.csprojAssemblyReference.cache
+C:\Projects\CORE_PROJ\IdentityServer4.Samples-master-Native\IdentityServer4.Samples-master\Quickstarts\8_AspNetIdentity\src\ResourceOwnerClient\obj\Debug\netcoreapp2.1\ResourceOwnerClient.csproj.CoreCompileInputs.cache
+C:\Projects\CORE_PROJ\IdentityServer4.Samples-master-Native\IdentityServer4.Samples-master\Quickstarts\8_AspNetIdentity\src\ResourceOwnerClient\obj\Debug\netcoreapp2.1\ResourceOwnerClient.AssemblyInfoInputs.cache
+C:\Projects\CORE_PROJ\IdentityServer4.Samples-master-Native\IdentityServer4.Samples-master\Quickstarts\8_AspNetIdentity\src\ResourceOwnerClient\obj\Debug\netcoreapp2.1\ResourceOwnerClient.AssemblyInfo.cs
+C:\Projects\CORE_PROJ\IdentityServer4.Samples-master-Native\IdentityServer4.Samples-master\Quickstarts\8_AspNetIdentity\src\ResourceOwnerClient\obj\Debug\netcoreapp2.1\ResourceOwnerClient.dll
+C:\Projects\CORE_PROJ\IdentityServer4.Samples-master-Native\IdentityServer4.Samples-master\Quickstarts\8_AspNetIdentity\src\ResourceOwnerClient\obj\Debug\netcoreapp2.1\ResourceOwnerClient.pdb

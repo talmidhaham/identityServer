@@ -1,0 +1,14 @@
+C:\Projects\CORE_PROJ\IdentityServer4.Samples-master-Native\IdentityServer4.Samples-master\Quickstarts\8_AspNetIdentity\src\JavaScriptClient\bin\Debug\netcoreapp2.2\JavaScriptClient.deps.json
+C:\Projects\CORE_PROJ\IdentityServer4.Samples-master-Native\IdentityServer4.Samples-master\Quickstarts\8_AspNetIdentity\src\JavaScriptClient\bin\Debug\netcoreapp2.2\JavaScriptClient.runtimeconfig.json
+C:\Projects\CORE_PROJ\IdentityServer4.Samples-master-Native\IdentityServer4.Samples-master\Quickstarts\8_AspNetIdentity\src\JavaScriptClient\bin\Debug\netcoreapp2.2\JavaScriptClient.runtimeconfig.dev.json
+C:\Projects\CORE_PROJ\IdentityServer4.Samples-master-Native\IdentityServer4.Samples-master\Quickstarts\8_AspNetIdentity\src\JavaScriptClient\bin\Debug\netcoreapp2.2\JavaScriptClient.dll
+C:\Projects\CORE_PROJ\IdentityServer4.Samples-master-Native\IdentityServer4.Samples-master\Quickstarts\8_AspNetIdentity\src\JavaScriptClient\bin\Debug\netcoreapp2.2\JavaScriptClient.pdb
+C:\Projects\CORE_PROJ\IdentityServer4.Samples-master-Native\IdentityServer4.Samples-master\Quickstarts\8_AspNetIdentity\src\JavaScriptClient\obj\Debug\netcoreapp2.2\JavaScriptClient.csprojAssemblyReference.cache
+C:\Projects\CORE_PROJ\IdentityServer4.Samples-master-Native\IdentityServer4.Samples-master\Quickstarts\8_AspNetIdentity\src\JavaScriptClient\obj\Debug\netcoreapp2.2\JavaScriptClient.csproj.CoreCompileInputs.cache
+C:\Projects\CORE_PROJ\IdentityServer4.Samples-master-Native\IdentityServer4.Samples-master\Quickstarts\8_AspNetIdentity\src\JavaScriptClient\obj\Debug\netcoreapp2.2\JavaScriptClient.RazorAssemblyInfo.cache
+C:\Projects\CORE_PROJ\IdentityServer4.Samples-master-Native\IdentityServer4.Samples-master\Quickstarts\8_AspNetIdentity\src\JavaScriptClient\obj\Debug\netcoreapp2.2\JavaScriptClient.RazorAssemblyInfo.cs
+C:\Projects\CORE_PROJ\IdentityServer4.Samples-master-Native\IdentityServer4.Samples-master\Quickstarts\8_AspNetIdentity\src\JavaScriptClient\obj\Debug\netcoreapp2.2\JavaScriptClient.AssemblyInfoInputs.cache
+C:\Projects\CORE_PROJ\IdentityServer4.Samples-master-Native\IdentityServer4.Samples-master\Quickstarts\8_AspNetIdentity\src\JavaScriptClient\obj\Debug\netcoreapp2.2\JavaScriptClient.AssemblyInfo.cs
+C:\Projects\CORE_PROJ\IdentityServer4.Samples-master-Native\IdentityServer4.Samples-master\Quickstarts\8_AspNetIdentity\src\JavaScriptClient\obj\Debug\netcoreapp2.2\JavaScriptClient.RazorTargetAssemblyInfo.cache
+C:\Projects\CORE_PROJ\IdentityServer4.Samples-master-Native\IdentityServer4.Samples-master\Quickstarts\8_AspNetIdentity\src\JavaScriptClient\obj\Debug\netcoreapp2.2\JavaScriptClient.dll
+C:\Projects\CORE_PROJ\IdentityServer4.Samples-master-Native\IdentityServer4.Samples-master\Quickstarts\8_AspNetIdentity\src\JavaScriptClient\obj\Debug\netcoreapp2.2\JavaScriptClient.pdb

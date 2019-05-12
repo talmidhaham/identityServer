@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="IdentityServerAspNetIdentity20190512030139" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Projects\\CORE_PROJ\\IdentityServer4\.Samples-master-Native\\IdentityServer4\.Samples-master\\Quickstarts\\8_AspNetIdentity\\src\\IdentityServerAspNetIdentity\\obj\\Release\\netcoreapp2\.2\\PubTmp\\Out\\$" />
+  </parameter>
+</parameters>
